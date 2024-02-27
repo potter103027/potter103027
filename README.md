@@ -1,14 +1,20 @@
 <!-- 배너 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1920&height=200&section=header&text=Welcome%20to%20WASSUP%202nd%20generation%20JDG's%20Github!&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1920&height=200&section=header&text=Welcome%20to%20WASSUP%202nd%20generation%20JDG's%20Github!&fontSize=30" />
 </p>
 
 <!-- 자기소개 링크 -->
 
 <p align="center">
-  	<a href="https://www.notion.so/oreumi/65047a8572994aa8b51eb0f7b6076ed8?pvs=4" target='_blank'><img src="https://img.shields.io/badge/JDG's Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="JDG's notion"></a>
-   <a href="https://www.linkedin.com/in/donggil-jang-b605971b8/" target='_blank'><img src="https://img.shields.io/badge/JDG's Linkedin-%230A0FFF.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="JDG's Linkedin"></a>
-     <a href="https://www.instagram.com/jdg_denma/" target='_blank'><img src="https://img.shields.io/badge/JDG's instagram-983882.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="JDG's instagram"></a>
+  <a href="https://www.notion.so/oreumi/65047a8572994aa8b51eb0f7b6076ed8?pvs=4" target='_blank'>
+    <img src="https://img.shields.io/badge/JDG's Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="JDG's notion">
+  </a>
+  <a href="https://www.linkedin.com/in/donggil-jang-b605971b8/" target='_blank'>
+    <img src="https://img.shields.io/badge/JDG's Linkedin-%230A0FFF.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="JDG's Linkedin">
+  </a>
+  <a href="https://www.instagram.com/jdg_denma/" target='_blank'>
+    <img src="https://img.shields.io/badge/JDG's instagram-983882.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="JDG's instagram">
+  </a>
 </p>
 
 
